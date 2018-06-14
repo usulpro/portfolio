@@ -152,7 +152,7 @@ Intelligent lighting complex to manage architectural and street lighting
 - Creator and developer of [Dynamic Creative Tools](http://dctools.org/)
 software to create and manage colour dynamic light show in urban scales
 
-# Development of normative documentation
+# Normative Documentation Development 
 - Co-developer of Moscow regional recommendations on pricing in the field of construction - [Dispatching and remote control of lighting (MRR-5.6-16)](http://docs.cntd.ru/document/456036069). I developed a section "Calculation methodology and basic prices for the main types of design work" and participate in other sections.
 
 
