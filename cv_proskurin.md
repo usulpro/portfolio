@@ -1,109 +1,119 @@
 ## **Oleg Proskurin**
 
-### ReactJS Developer
+### Frontend Developer
 ---
 
 Email: pro@usul.su
 
 skype: UsulPro
 
-telegram: [@usulpro](https://t.me/usulpro)
+phone: 007 (926) 256-8332
 
-phone: 007 (926) 256-83-32
-
-github: [https://github.com/UsulPro](https://github.com/UsulPro)
-
-twitter: [https://twitter.com/UsulPro](https://twitter.com/UsulPro)
-
-linkedin: [https://www.linkedin.com/in/oleg-proskurin-76784453/](https://www.linkedin.com/in/oleg-proskurin-76784453/)
-
-stackoverflow.: [stackoverflow.com/users/5721315/oleg-pro](https://stackoverflow.com/users/5721315/oleg-pro?tab=answers&sort=votes)
-
-NPM: [usulpro](https://www.npmjs.com/~usulpro), [storybook](https://www.npmjs.com/org/storybook/members)
+[github](https://github.com/UsulPro),
+[NPM: usulpro](https://www.npmjs.com/~usulpro),
+[NPM: storybook](https://www.npmjs.com/org/storybook/members),
+[twitter](https://twitter.com/UsulPro),
+[telegram](https://t.me/usulpro),
+[stackoverflow](https://stackoverflow.com/users/5721315/oleg-pro?tab=answers&sort=votes),
+[linkedin](https://www.linkedin.com/in/oleg-proskurin-76784453/)
 
 ## __Skills__
 
 
-### Frontend:
+### Frontend Stack:
 ```
 HTML5, CSS3, ECMAScript 6
 
-React, Redux, Apollo
+React, Redux, Apollo-Client, React-Router, Reach-Router
 
-NPM, Yarn
+Material-UI, Glamorous/Emotion/Styled Components, SASS/LESS
 
-Material-UI, Glamorous, SASS
+REST API, GraphQL API
 
-NodeJS, Babel, Webpack, Git
+```
+
+### Backend Stack:
+```
+Prisma, GraphQL-Yoga, Apollo-Server
+
+Graphcool, Kinvey
+
+Auth0, Sendgrid
+
+Recast.ai, Engati
+
+```
+
+### DevOps:
+```
+NPM, Yarn, Docker
+
+NodeJS, Babel, Webpack, Git, GitKraken
 
 Jest, Mocha, Chai, Storybook, React Styleguidist
+
+Jira, Bitbucket, Github, Bitrix, Trello
 ```
-### API:
-```
-REST, GraphQL
-```
-### BaaS
-```
-Graphcool, Prisma, Kinvey
-```
-### Chatbots
-```
-Recast.ai, Engati
-```
-### Programming Languages
+
+### Other Programming Languages
 ```
 C#, Matlab, VB/VBA, ECMAScript
 ```
 
-### Project management
-```
-Bitrix, Trello, Asana, ISO 9001, 1C
-```
-### OS
-```
-Linux Mint, Ubuntu, Windows
-```
-### Software & Tools
-```
-Photoshop, After Effects, Premier, Edge Animate, AutoCAD
-```
-
 ## __Project Examples__
 
+## Create MUI Theme (open source)
+Online tool for creating Material-UI themes. React SPA with Graphcool backend.
 
-### Storybook addon-console
-Small project covered by tests, with JSdoc based documentation and VSCode integration features. Has over 6K downloads on NPM.
+Demo: [https://react-theming.github.io/create-mui-theme/](https://react-theming.github.io/create-mui-theme/)
 
-[@storybook/addon-console](https://www.npmjs.com/package/@storybook/addon-console)
 
-### Storybook Addon Material-UI
+## Storybook addon-console (open source)
+Small project covered by tests, with JSdoc based documentation and VSCode integration features.
+
+
+[![addon-console](https://img.shields.io/npm/dt/@storybook/addon-console.svg)](https://github.com/storybooks/storybook-addon-console)
+
+Demo: [https://storybooks.github.io/storybook-addon-console](https://storybooks.github.io/storybook-addon-console)
+
+
+Code: [@storybook/addon-console](https://www.npmjs.com/package/@storybook/addon-console)
+
+## Storybook Addon Material-UI (open source)
 Addon for Storybook. My biggest and most popular on GitHub project with big readme section.
+
 [storybook-addon-material-ui](https://github.com/react-theming/storybook-addon-material-ui)
 
-### React Scrollbar
-It's not my project originally but I made efforts to make it work properly with Babel and NPM.
+[![Material-UI](https://img.shields.io/npm/dt/storybook-addon-material-ui.svg)](https://github.com/react-theming/storybook-addon-material-ui)
 
-[react-scrollbar](https://github.com/BosNaufal/react-scrollbar/graphs/contributors)
-
-### Other projects
+## Other projects
 See my other projects on [https://github.com/usulpro](https://github.com/usulpro)
 
 ## __Professional Experience__
 
 ### Lead Frontend developer in Skipp ([Skolkovo](http://sk.ru/net/) participant). Jan 2018 to present.
 
-Skolkovo Marketplace http://rnd.sk.ru/
+Skolkovo Marketplace [https://rnd.sk.ru/](https://rnd.sk.ru/)
 - Developing front-end business logic
-- Migration from REST API (Kinvey) to GraphQL (Graphcool)
+- Improving auth process
+- Migration from REST API (Kinvey) to GraphQL (Prisma + GraphQL-Yoga)
 - Developing BaaS service
 - recast.ai integration
 - sendgrid.com integration
+- customer support communications
+
+Main achievement:
+- faster page loading, after implementation of smarter fetching and caching logic
+- improving UX by fixing bugs in legacy code
+- automating development process via creating nodejs scripts
+- organized consistent release process
+- helped to adopt new members to a project team
 
 ### Open Source Work. (2015 - present)
 
 - React Storybook [maintainers team](https://github.com/orgs/storybooks/people) member
 
-- Developer of [storybook-addon-material-ui](https://github.com/sm-react/storybook-addon-material-ui)
+- Creator and Developer of [React Theming](https://github.com/react-theming)
 
 - Translation: [JavaScript Stack from Scratch](https://github.com/UsulPro/js-stack-from-scratch) into Russian
 
@@ -187,6 +197,8 @@ Light Design #3(50), 2012
 - Architectural and artistic lighting of the "New Arbat Street"
 Light Design #2(53), 2013
 
+[Full list of publications](https://github.com/UsulPro/portfolio/blob/master/list-of-publications.pdf)
+
 
 ## __Interviews and work with mass media__
 
@@ -206,12 +218,24 @@ Light Design #2(53), 2013
 ## __Education__
 
 ### National Research University "Moscow Power Engineering Institute"
+
 1997 - 2006
 
 Degree: Magistrate
+
 Title or Qualification: Electronics
+
 Specialisation: Lighting
-ISCED VERIFIED [DIPLOMA](https://yadi.sk/i/7KUVBDk43HqBdm)
+
+EU Blue Card Network VERIFIED [DIPLOMA](https://www.apply.eu/share/Diplomas/o1tu_1) [Profile](https://www.apply.eu/share/o1tu)
 
 ### KNX basic course concluded by the KNX exam
+
 2012
+
+
+
+---
+
+CV online version: [github.com/UsulPro/portfolio](https://github.com/UsulPro/portfolio)
+

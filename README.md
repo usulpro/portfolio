@@ -1,10 +1,22 @@
 # Oleg Proskurin
 
->ReactJS Developer
+>Frontend Developer
+
+## Stack
+
+`React`, `Redux`, `Apollo-Client`, `React-Router`, `Reach-Router`
+
+`Material-UI`, `JSS`
+
+`Prisma`, `GraphQL-Yoga`, `Graphcool`, `Auth0`
+
+`NPM`, `Yarn`, `NodeJS`,
+
+`Babel`, `Webpack`, `Git`, `Jest`, `Storybook`
 
 ## CV
 
-[CV](/cv_proskurin.md)
+[Full CV](/cv_proskurin.md)
 
 ## Contacts
 
@@ -22,6 +34,6 @@ twitter: https://twitter.com/UsulPro
 
 linkedin: https://www.linkedin.com/in/oleg-proskurin-76784453/
 
-stackoverflow.: [stackoverflow.com/users/5721315/oleg-pro](https://stackoverflow.com/users/5721315/oleg-pro?tab=answers&sort=votes)
+stackoverflow: [stackoverflow.com/users/5721315/oleg-pro](https://stackoverflow.com/users/5721315/oleg-pro?tab=answers&sort=votes)
 
 NPM: [usulpro](https://www.npmjs.com/~usulpro), [storybook](https://www.npmjs.com/org/storybook/members)
