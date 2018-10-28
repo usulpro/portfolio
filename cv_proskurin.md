@@ -1,7 +1,6 @@
-# Oleg Proskurin
+## **Oleg Proskurin**
 
 ### ReactJS Developer
-
 ---
 
 Email: pro@usul.su
@@ -12,20 +11,21 @@ telegram: [@usulpro](https://t.me/usulpro)
 
 phone: 007 (926) 256-83-32
 
-github: https://github.com/UsulPro
+github: [https://github.com/UsulPro](https://github.com/UsulPro)
 
-twitter: https://twitter.com/UsulPro
+twitter: [https://twitter.com/UsulPro](https://twitter.com/UsulPro)
 
-linkedin: https://www.linkedin.com/in/oleg-proskurin-76784453/
+linkedin: [https://www.linkedin.com/in/oleg-proskurin-76784453/](https://www.linkedin.com/in/oleg-proskurin-76784453/)
 
 stackoverflow.: [stackoverflow.com/users/5721315/oleg-pro](https://stackoverflow.com/users/5721315/oleg-pro?tab=answers&sort=votes)
 
 NPM: [usulpro](https://www.npmjs.com/~usulpro), [storybook](https://www.npmjs.com/org/storybook/members)
 
-# Skills
+## __Skills__
 
-### Frontend
 
+### Frontend:
+```
 HTML5, CSS3, ECMAScript 6
 
 React, Redux, Apollo
@@ -37,38 +37,39 @@ Material-UI, Glamorous, SASS
 NodeJS, Babel, Webpack, Git
 
 Jest, Mocha, Chai, Storybook, React Styleguidist
-
-### API
-
+```
+### API:
+```
 REST, GraphQL
-
+```
 ### BaaS
-
+```
 Graphcool, Prisma, Kinvey
-
+```
 ### Chatbots
-
+```
 Recast.ai, Engati
-
+```
 ### Programming Languages
-
+```
 C#, Matlab, VB/VBA, ECMAScript
-
+```
 
 ### Project management
-
+```
 Bitrix, Trello, Asana, ISO 9001, 1C
-
+```
 ### OS
-
+```
 Linux Mint, Ubuntu, Windows
-
+```
 ### Software & Tools
-
+```
 Photoshop, After Effects, Premier, Edge Animate, AutoCAD
+```
 
+## __Project Examples__
 
-# Project Examples
 
 ### Storybook addon-console
 Small project covered by tests, with JSdoc based documentation and VSCode integration features. Has over 6K downloads on NPM.
@@ -87,11 +88,11 @@ It's not my project originally but I made efforts to make it work properly with 
 ### Other projects
 See my other projects on [https://github.com/usulpro](https://github.com/usulpro)
 
-# Professional Experience
+## __Professional Experience__
 
 ### Lead Frontend developer in Skipp ([Skolkovo](http://sk.ru/net/) participant). Jan 2018 to present.
 
-#### Skolkovo Marketplace http://rnd.sk.ru/
+Skolkovo Marketplace http://rnd.sk.ru/
 - Developing front-end business logic
 - Migration from REST API (Kinvey) to GraphQL (Graphcool)
 - Developing BaaS service
@@ -137,7 +138,7 @@ See my other projects on [https://github.com/usulpro](https://github.com/usulpro
 - Resolving issues with customers and related departments
 - Lead a team of engineers
 
-### Personal Highlights
+## __Personal Highlights__
 - In 2014 received the award of the city of Moscow in the field of literature and art for the development of a media façade on the New Arbat Street, as a leader of the project. [article](http://vm.ru/news/2014/09/05/nagrazhdeni-laureati-premii-moskvi-v-oblasti-literaturi-i-iskusstva-264530.html), [document](https://yadi.sk/i/APFY0ktOXBw9C)
 
 - Developed a software system for the creation of colour-dynamic shows. It works with large amount of buildings and controllers. Includes visualization of shows. Started as a side project, it was installed in the city dispatch center in 2014. [Dynamic Creative Tools](http://dctools.org/)
@@ -145,19 +146,19 @@ See my other projects on [https://github.com/usulpro](https://github.com/usulpro
 - In 2015 left the office job and went with my wife to live and travel in South East Asia. During three years explored new areas of communication, professional activities and interests.
 
 
-# Startup Experience
+## __Startup Experience__
 - Co-creator of [smARTLight](http://sm-artlight.ru/)
 Intelligent lighting complex to manage architectural and street lighting
 
 - Creator and developer of [Dynamic Creative Tools](http://dctools.org/)
 software to create and manage colour dynamic light show in urban scales
 
-# Normative Documentation Development 
+## __Development of normative documentation__
 - Co-developer of Moscow regional recommendations on pricing in the field of construction - [Dispatching and remote control of lighting (MRR-5.6-16)](http://docs.cntd.ru/document/456036069). I developed a section "Calculation methodology and basic prices for the main types of design work" and participate in other sections.
 
 
 
-# Conference Talks
+## __Conference Talks__
 
 - Equal contrast system for computer graphics
 conference talk and publication. [Interlight Moscow](http://www.interlight.messefrankfurt.ru/moscow/en/exhibitors/about.html?nc) 2003
@@ -172,7 +173,7 @@ conference talk. [Interlight Moscow](http://www.interlight.messefrankfurt.ru/mos
 conference talk and publication in the
 [Led Forum](http://dctools.org/index.php/contacts/ledforum-2013) 2013
 
-# Publications
+## __Publications__
 
 - Realistic modeling of images of illumination of three-dimensional scenes on the computers screen
 publication in the conference abstracts of V NATIONAL LC. 2003
@@ -187,7 +188,7 @@ Light Design #3(50), 2012
 Light Design #2(53), 2013
 
 
-# Interviews and work with mass media
+## __Interviews and work with mass media__
 
 - How to illuminate facades.
 [interview](http://vm.ru/news/2012/07/19/kak-osveshchayut-fasadi-155853.html) in the newspaper Evening Moscow. 2012
@@ -202,7 +203,7 @@ Light Design #2(53), 2013
 [interview and the organizational work](https://youtu.be/fqNRwEm6Qwc) 2013
 
 
-# Education
+## __Education__
 
 ### National Research University "Moscow Power Engineering Institute"
 1997 - 2006
