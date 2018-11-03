@@ -3,11 +3,7 @@
 ### Frontend Developer
 ---
 
-Email: pro@usul.su
-
-skype: UsulPro
-
-phone: 007 (926) 256-8332
+Email: pro@usul.su, skype: UsulPro, phone: 007 (926) 256-8332
 
 [github](https://github.com/UsulPro),
 [NPM: usulpro](https://www.npmjs.com/~usulpro),
@@ -19,10 +15,13 @@ phone: 007 (926) 256-8332
 
 ## __Skills__
 
+```
+ECMAScript 6, Babel 7, Webpack 4, NPM, Yarn
+```
 
 ### Frontend Stack:
 ```
-HTML5, CSS3, ECMAScript 6
+HTML5, CSS3,
 
 React, Redux, Apollo-Client, React-Router, Reach-Router
 
@@ -38,17 +37,17 @@ Prisma, GraphQL-Yoga, Apollo-Server
 
 Graphcool, Kinvey
 
-Auth0, Sendgrid
+Auth0, JWT, OAuth, Google Maps Platform, Jira API
 
-Recast.ai, Engati
+Sendgrid, Recast.ai, Engati
 
 ```
 
-### DevOps:
+### DevOps, Tools, Tests:
 ```
-NPM, Yarn, Docker
+Docker, Docker Compose
 
-NodeJS, Babel, Webpack, Git, GitKraken
+NodeJS, Git, GitKraken
 
 Jest, Mocha, Chai, Storybook, React Styleguidist
 
