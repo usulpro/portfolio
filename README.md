@@ -1,39 +1,32 @@
 # Oleg Proskurin
 
->Frontend Developer
+<div align="left">
+  <h2>
+  <nobr>
+    <a href="https://storybookjs.github.io/storybook-addon-console">
+      <img src="https://raw.githubusercontent.com/UsulPro/portfolio/master/photo.jpg" alt="logo" height="140">
+      <br>Senior Software Engineer @ FocusReactive
+    </a>
+  </h2>
 
-## Stack
+</div>
 
-`React`, `Redux`, `Apollo-Client`, `React-Router`, `Reach-Router`
 
-`Material-UI`, `JSS`
+[Oleg Proskurin Senior Software Engineer - CV](https://raw.githubusercontent.com/UsulPro/portfolio/master/Oleg_Proskurin_Senior_At_FR.pdf)
 
-`Prisma`, `GraphQL-Yoga`, `Graphcool`, `Auth0`
+[Tech publications and conference talks (russian)](https://raw.githubusercontent.com/UsulPro/portfolio/master/list-of-publications.pdf)
 
-`NPM`, `Yarn`, `NodeJS`,
+[Tech publications on focusreactive.com Blog](https://focusreactive.com/blog/)
 
-`Babel`, `Webpack`, `Git`, `Jest`, `Storybook`
+---
+## Open source projects
 
-## CV
+[Storybook](https://github.com/storybookjs/storybook)
 
-[Full CV](/cv_proskurin.md)
+[React Theming](https://github.com/react-theming)
 
-## Contacts
+[Storybook Addon Console](https://github.com/storybookjs/storybook-addon-console)
 
-Email: pro@usul.su
+[GitNation Conferences](https://github.com/GitNation)
 
-skype: UsulPro
-
-telegram: [@usulpro](https://t.me/usulpro)
-
-phone: 007 (926) 256-83-32
-
-github: https://github.com/UsulPro
-
-twitter: https://twitter.com/UsulPro
-
-linkedin: https://www.linkedin.com/in/oleg-proskurin-76784453/
-
-stackoverflow: [stackoverflow.com/users/5721315/oleg-pro](https://stackoverflow.com/users/5721315/oleg-pro?tab=answers&sort=votes)
-
-NPM: [usulpro](https://www.npmjs.com/~usulpro), [storybook](https://www.npmjs.com/org/storybook/members)
+[Storybook Graphql Kit](https://github.com/focusreactive/storybook-graphql-kit)
