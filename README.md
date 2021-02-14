@@ -12,8 +12,7 @@
 <div align="left">
   <nobr>
     <a href="https://raw.githubusercontent.com/UsulPro/portfolio/master/Oleg_Proskurin_Senior_At_FR.pdf">
-      <img src="https://raw.githubusercontent.com/UsulPro/portfolio/master/robot-finger.jpg" alt="logo" height="60">
-      Oleg Proskurin Senior Software Engineer - CV
+      <img src="https://raw.githubusercontent.com/UsulPro/portfolio/master/robot-finger.png" alt="logo" height="60">
     </a>
 </div>
 
