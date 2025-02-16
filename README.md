@@ -69,15 +69,25 @@ I am **Oleg Proskurin**, an experienced **Tech Lead & Senior Web Developer** wit
 ## 🏆 **Key Achievements**
 
 ✅ **Migrated all GitNation Conferences websites** to Hygraph Headless CMS and developed a framework that empowers content managers and frontend developers to independently create new conference websites. Now, over 20 sites operate on this framework ([GitNation live conferences](https://github.com/GitNation/live-conferences)).
+
 ✅ **Expanded the Headless CMS toolkit** for the company – Advocated for Storyblok as a CMS that aligns with company values, evaluated and developed demo projects for Directus, DatoCMS, Payload, Crystallize, and Prepr CMS, leading to strategic partnerships.
+
 ✅ **Developed and customized a Headless CMS for Tipico US**, significantly enhancing Sanity’s base capabilities by introducing a White Label section, phased label expansion per state, a five-environment publishing flow, and custom plugins for document migration and filtering.
+
 ✅ **Designed and led the development of CMS-Kit** – Researched ways to optimize development efficiency, analyzed project workflows, identified improvement areas, and developed an MVP. Engaged senior developers to refine core aspects, resulting in a structured boilerplate for faster project initiation.
+
 ✅ **Implemented CMS-Kit in a client project**, proving its efficiency and setting a foundation for scalable solutions.
+
 ✅ **Led the migration of a 500+ page website** to Contentful for a UK-based fintech company
+
 ✅ **Encouraged and inspired developers** to write blog articles, contribute to public and open-source projects, and build their professional profiles. Led the development of internal MVP and Demo projects to attract clients and showcase technical expertise.
+
 ✅ **Negotiated an agreement with [Flowbite](https://flowbite.com/)** to integrate their components into our CMS-Kit.
+
 ✅ **Facilitated FocusReactive’s inclusion in [Sanity Exchange](https://www.sanity.io/exchange/community/focusreactive)**, strengthening our industry presence.
+
 ✅ **Moderates & leads tech communities** on daily.dev (21K+ members in the Next.js squad).
+
 ✅ **Mentored and hired mid-to-senior engineers** at FocusReactive
 
 
