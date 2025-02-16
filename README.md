@@ -32,7 +32,7 @@ I am **Oleg Proskurin**, an experienced **Tech Lead & Senior Web Developer** wit
 ---
 
 ## 📄 **Resume & Case Studies**
-📌 **[Resume (PDF)](https://raw.githubusercontent.com/UsulPro/portfolio/master/Oleg_Proskurin_Techlead_resume.pdf)**
+📌 **[Resume (PDF)](https://github.com/usulpro/portfolio/blob/master/Oleg_Proskurin_Techlead_resume.pdf)** [Download](https://raw.githubusercontent.com/UsulPro/portfolio/master/Oleg_Proskurin_Techlead_resume.pdf)
 
 ### **Client Projects**
 - [Hardhat Documentation Platform](https://focusreactive.com/hardhat-case-study/) – Led the development of a structured documentation system for the Hardhat framework.
